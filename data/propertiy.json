@@ -1,0 +1,114 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "Luxury Villa",
+      "location": "Dhaka, Bangladesh",
+      "price": 25000000,
+      "bedroom": 4,
+      "bathroom": 3,
+      "area": "3200 sqft",
+      "image": "/Image/properties/house-3.jpg",
+      "status": "For Sale"
+    },
+    {
+      "id": 2,
+      "title": "Modern Apartment",
+      "location": "Chittagong, Bangladesh",
+      "price": 12000000,
+      "bedroom": 3,
+      "bathroom": 2,
+      "area": "1800 sqft",
+      "image": "/Image/properties/pexels-heyho-6316066.jpg",
+      "status": "For Rent"
+    },
+    {
+      "id": 3,
+      "title": "Family House",
+      "location": "Sylhet, Bangladesh",
+      "price": 9000000,
+      "bedroom": 3,
+      "bathroom": 2,
+      "area": "1500 sqft",
+      "image": "/Image/properties/house-2.jpg",
+      "status": "For Sale"
+    },
+    {
+      "id": 4,
+      "title": "Moder Flat",
+      "location": "Cox's Bazar, Bangladesh",
+      "price": 45000000,
+      "bedroom": 6,
+      "bathroom": 4,
+      "area": "5000 sqft",
+      "image": "/Image/properties/pexels-heyho-6492386.jpg",
+      "status": "For Sale"
+    },
+    {
+      "id": 5,
+      "title": "City View Apartment",
+      "location": "Uttara, Dhaka",
+      "price": 15000000,
+      "bedroom": 3,
+      "bathroom": 3,
+      "area": "2000 sqft",
+      "image": "/Image/properties/pexels-heyho-7018850.jpg",
+      "status": "For Rent"
+    },
+    {
+      "id": 6,
+      "title": "Commercial Space",
+      "location": "Banani, Dhaka",
+      "price": 60000000,
+      "bedroom": 0,
+      "bathroom": 2,
+      "area": "3500 sqft",
+      "image": "/Image/properties/pexels-heyho-7195899.jpg",
+      "status": "For Sale"
+    },
+    {
+      "id": 7,
+      "title": "Duplex House",
+      "location": "Dhanmondi, Dhaka",
+      "price": 32000000,
+      "bedroom": 5,
+      "bathroom": 4,
+      "area": "4200 sqft",
+      "image": "/Image/properties/house.jpg",
+      "status": "For Rent"
+    },
+    {
+      "id": 8,
+      "title": "Small Family Home",
+      "location": "Gazipur, Bangladesh",
+      "price": 5000000,
+      "bedroom": 2,
+      "bathroom": 1,
+      "area": "1000 sqft",
+      "image": "/Image/properties/pexels-heyho-7533763.jpg",
+      "status": "For Sale"
+    },
+    {
+      "id": 9,
+      "title": "City View Apartment",
+      "location": "Uttara, Dhaka",
+      "price": 15000000,
+      "bedroom": 3,
+      "bathroom": 3,
+      "area": "2000 sqft",
+      "image": "/Image/properties/pexels-heyho-7018850.jpg",
+      "status": "For Rent"
+    },
+    {
+      "id": 10,
+      "title": "Commercial Space",
+      "location": "Banani, Dhaka",
+      "price": 60000000,
+      "bedroom": 0,
+      "bathroom": 2,
+      "area": "3500 sqft",
+      "image": "/Image/properties/pexels-heyho-7195899.jpg",
+      "status": "For Sale"
+    }
+  ]
+}

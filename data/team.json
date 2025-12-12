@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Md. Nafiul Islam",
+    "role": "Team Leader",
+    "age": 22,
+    "email": "nafiul@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Fatema Akter",
+    "role": "Frontend Developer",
+    "age": 21,
+    "email": "fatema@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Rafiq Hossain",
+    "role": "Backend Developer",
+    "age": 23,
+    "email": "rafiq@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Sadia Rahman",
+    "role": "UI/UX Designer",
+    "age": 22,
+    "email": "sadia@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Tanvir Islam",
+    "role": "DevOps Engineer",
+    "age": 24,
+    "email": "tanvir@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Nusrat Jahan",
+    "role": "Quality Analyst",
+    "age": 21,
+    "email": "nusrat@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Shawon Ahmed",
+    "role": "Frontend Developer",
+    "age": 22,
+    "email": "shawon@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Rumana Akter",
+    "role": "Backend Developer",
+    "age": 23,
+    "email": "rumana@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Joynal Abedin",
+    "role": "Database Admin",
+    "age": 25,
+    "email": "joynal@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Lina Khan",
+    "role": "Project Manager",
+    "age": 24,
+    "email": "lina@example.com"
+  }
+]

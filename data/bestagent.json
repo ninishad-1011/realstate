@@ -1,0 +1,116 @@
+{
+  "agents": [
+    {
+      "id": 1,
+      "name": "Nafiul Islam",
+      "designation": "Senior Agent",
+      "phone": "+8801571117435",
+      "email": "nafiul1011@gmail.com",
+      "image": "/images/agents/agent1.jpg",
+      "socialLinks": {
+        "facebook": "https://facebook.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com",
+        "github": "https://github.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sadia Rahman",
+      "designation": "Property Consultant",
+      "phone": "+8801712345678",
+      "email": "sadia@example.com",
+      "image": "/images/agents/agent2.jpg",
+      "socialLinks": {
+        "facebook": "https://facebook.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com",
+        "github": "https://github.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Arif Hossain",
+      "designation": "Real Estate Agent",
+      "phone": "+8801912345678",
+      "email": "arif@example.com",
+      "image": "/images/agents/agent3.jpg",
+      "socialLinks": {
+        "facebook": "https://facebook.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com",
+        "github": "https://github.com"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Tania Akter",
+      "designation": "Junior Agent",
+      "phone": "+8801812345678",
+      "email": "tania@example.com",
+      "image": "/images/agents/agent4.jpg",
+      "socialLinks": {
+        "facebook": "https://facebook.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com",
+        "github": "https://github.com"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rafiq Khan",
+      "designation": "Senior Agent",
+      "phone": "+8801612345678",
+      "email": "rafiq@example.com",
+      "image": "/images/agents/agent5.jpg",
+      "socialLinks": {
+        "facebook": "https://facebook.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com",
+        "github": "https://github.com"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Meherun Nahar",
+      "designation": "Property Consultant",
+      "phone": "+8801512345678",
+      "email": "meherun@example.com",
+      "image": "/images/agents/agent6.jpg",
+      "socialLinks": {
+        "facebook": "https://facebook.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com",
+        "github": "https://github.com"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rumana Akter",
+      "designation": "Real Estate Agent",
+      "phone": "+8801412345678",
+      "email": "rumana@example.com",
+      "image": "/images/agents/agent7.jpg",
+      "socialLinks": {
+        "facebook": "https://facebook.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com",
+        "github": "https://github.com"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Jahid Hasan",
+      "designation": "Property Consultant",
+      "phone": "+8801312345678",
+      "email": "jahid@example.com",
+      "image": "/images/agents/agent8.jpg",
+      "socialLinks": {
+        "facebook": "https://facebook.com",
+        "linkedin": "https://linkedin.com",
+        "instagram": "https://instagram.com",
+        "github": "https://github.com"
+      }
+    }
+  ]
+}
