@@ -71,7 +71,7 @@ function page() {
             >
             View All
             </Link>
-          </div>
+          </div> dfgdff
 
           <div className="mt-10">
             <Card limit={3} pagination={false} />
