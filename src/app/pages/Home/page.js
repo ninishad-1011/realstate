@@ -24,9 +24,9 @@ function page() {
               porta. Praesent sapien massa, convallis a pellentesque nec,
               egestas non nisi...
             </p>
-            <button className="mt-10 cursor-pointer hover:text-green-600  font-semibold ">
+            <Link href={"/about"}>  <button className="mt-10 cursor-pointer hover:text-green-600  font-semibold">
               Read More...
-            </button>
+            </button></Link>
           </div>
 
           <div className="border-r-2 border-gray-500">
@@ -39,9 +39,9 @@ function page() {
               posuere blandit. Mauris blandit aliquet elit, eget tincidunt nibh
               pulvinar a...
             </p>
-            <button className="mt-10 cursor-pointer hover:text-green-600  font-semibold ">
+            <Link href={"/about"}>  <button className="mt-10 cursor-pointer hover:text-green-600  font-semibold">
               Read More...
-            </button>
+            </button></Link>
           </div>
 
           <div>
@@ -54,9 +54,9 @@ function page() {
               porta. Praesent sapien massa, convallis a pellentesque nec,
               egestas non nisi..
             </p>
-            <button className="mt-10 cursor-pointer hover:text-green-600  font-semibold">
+          <Link href={"/about"}>  <button className="mt-10 cursor-pointer hover:text-green-600  font-semibold">
               Read More...
-            </button>
+            </button></Link>
           </div>
         </div>
       </div>

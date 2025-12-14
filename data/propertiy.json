@@ -9,7 +9,10 @@
       "bathroom": 3,
       "area": "3200 sqft",
       "image": "/Image/properties/house-3.jpg",
-      "status": "For Sale"
+      "status": "For Sale",
+      "address": "",
+            "amenities": ["Parking", "Garden", "Security", "Balcony"],
+      "description": "This luxury villa offers premium living with spacious interiors, elegant design, and high-quality finishes. Ideal for families seeking comfort, privacy, and a high-end lifestyle."
     },
     {
       "id": 2,
@@ -20,7 +23,10 @@
       "bathroom": 2,
       "area": "1800 sqft",
       "image": "/Image/properties/pexels-heyho-6316066.jpg",
-      "status": "For Rent"
+      "status": "For Rent",
+      "address": "",
+            "amenities": ["Lift", "Security", "Generator", "Parking"],
+      "description": "This modern apartment is designed for comfortable city living with bright rooms, a functional kitchen, and easy access to daily necessities."
     },
     {
       "id": 3,
@@ -31,18 +37,24 @@
       "bathroom": 2,
       "area": "1500 sqft",
       "image": "/Image/properties/house-2.jpg",
-      "status": "For Sale"
+      "status": "For Sale",
+      "address": "",
+            "amenities": ["Parking", "Water Supply", "Security"],
+      "description": "A cozy family house offering a peaceful environment with good ventilation and practical living spaces."
     },
     {
       "id": 4,
-      "title": "Moder Flat",
+      "title": "Modern Flat",
       "location": "Cox's Bazar, Bangladesh",
       "price": 45000000,
       "bedroom": 6,
       "bathroom": 4,
       "area": "5000 sqft",
       "image": "/Image/properties/pexels-heyho-6492386.jpg",
-      "status": "For Sale"
+      "status": "For Sale",
+      "address": "",
+            "amenities": ["Lift", "Security", "Parking", "Sea Nearby"],
+      "description": "This spacious modern flat offers luxury living with wide rooms, excellent airflow, and a premium lifestyle experience."
     },
     {
       "id": 5,
@@ -53,7 +65,10 @@
       "bathroom": 3,
       "area": "2000 sqft",
       "image": "/Image/properties/pexels-heyho-7018850.jpg",
-      "status": "For Rent"
+      "status": "For Rent",
+      "address": "",
+            "amenities": ["Lift", "Security", "Parking", "City View"],
+      "description": "A modern city view apartment offering comfort, natural light, and excellent connectivity to key areas."
     },
     {
       "id": 6,
@@ -64,7 +79,10 @@
       "bathroom": 2,
       "area": "3500 sqft",
       "image": "/Image/properties/pexels-heyho-7195899.jpg",
-      "status": "For Sale"
+      "status": "For Sale",
+      "address": "",
+            "amenities": ["Parking", "Lift", "Security", "Power Backup"],
+      "description": "This commercial space is ideal for offices or showrooms, located in a prime business area with modern facilities."
     },
     {
       "id": 7,
@@ -75,7 +93,10 @@
       "bathroom": 4,
       "area": "4200 sqft",
       "image": "/Image/properties/house.jpg",
-      "status": "For Rent"
+      "status": "For Rent",
+      "address": "",
+            "amenities": ["Balcony", "Parking", "Security", "Garden"],
+      "description": "This duplex house offers multi-level living with spacious rooms, privacy, and modern design."
     },
     {
       "id": 8,
@@ -86,7 +107,10 @@
       "bathroom": 1,
       "area": "1000 sqft",
       "image": "/Image/properties/pexels-heyho-7533763.jpg",
-      "status": "For Sale"
+      "status": "For Sale",
+      "address": "",
+            "amenities": ["Water Supply", "Parking"],
+      "description": "A budget-friendly small family home with essential facilities and a calm residential environment."
     },
     {
       "id": 9,
@@ -97,7 +121,10 @@
       "bathroom": 3,
       "area": "2000 sqft",
       "image": "/Image/properties/pexels-heyho-7018850.jpg",
-      "status": "For Rent"
+      "status": "For Rent",
+      "address": "",
+            "amenities": ["Lift", "Security", "Parking"],
+      "description": "This apartment offers comfortable urban living with modern facilities and excellent surroundings."
     },
     {
       "id": 10,
@@ -108,7 +135,10 @@
       "bathroom": 2,
       "area": "3500 sqft",
       "image": "/Image/properties/pexels-heyho-7195899.jpg",
-      "status": "For Sale"
+      "status": "For Sale",
+      "address": "",
+            "amenities": ["Lift", "Security", "Parking", "Generator"],
+      "description": "This well-designed and comfortable flat is ideal for modern living with excellent security, lift facilities, and nearby essential services."
     }
   ]
 }

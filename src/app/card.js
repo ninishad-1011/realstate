@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import data from "../../data/propertiy.json";
+import Link from "next/link";
 
 export default function Card({ limit = 3, pagination = false }) {
   const properties = data.properties;
@@ -66,10 +67,11 @@ export default function Card({ limit = 3, pagination = false }) {
                 $ {item.price.toLocaleString()}
               </p>
 
-              <button className="mt-4 w-[100px] border-2 border-green-500 text-[16px] p-1 hover:bg-green-500 rounded-full text-white font-semibold">
-                View More
-              </button>
-
+              <Link href={`/property/${item.id}`}>
+                <button className="mt-4 w-[120px] border-2 border-green-500 text-[16px] p-1 hover:bg-green-500 rounded-full text-white font-semibold">
+                  View More
+                </button>
+              </Link>
               <div className="flex text-1xl font-semibold bg-green-600 rounded-full px-4 py-1 w-[100px] mt-4 gap-8">
                 <span>{item.status}</span>
               </div>
