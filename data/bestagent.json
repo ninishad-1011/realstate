@@ -5,8 +5,9 @@
       "name": "Nafiul Islam",
       "designation": "Senior Agent",
       "phone": "+8801571117435",
+      "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "email": "nafiul1011@gmail.com",
-      "image": "/images/agents/agent1.jpg",
+      "image": "/Image/WhatsApp Image 2025-11-13 at 19.05.52_1f28799b.jpg",
       "socialLinks": {
         "facebook": "https://facebook.com",
         "linkedin": "https://linkedin.com",
@@ -21,6 +22,7 @@
       "phone": "+8801712345678",
       "email": "sadia@example.com",
       "image": "/images/agents/agent2.jpg",
+        "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
         "linkedin": "https://linkedin.com",
@@ -49,6 +51,7 @@
       "phone": "+8801812345678",
       "email": "tania@example.com",
       "image": "/images/agents/agent4.jpg",
+        "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
         "linkedin": "https://linkedin.com",
@@ -63,6 +66,7 @@
       "phone": "+8801612345678",
       "email": "rafiq@example.com",
       "image": "/images/agents/agent5.jpg",
+        "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
         "linkedin": "https://linkedin.com",
@@ -77,6 +81,7 @@
       "phone": "+8801512345678",
       "email": "meherun@example.com",
       "image": "/images/agents/agent6.jpg",
+        "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
         "linkedin": "https://linkedin.com",
@@ -91,6 +96,7 @@
       "phone": "+8801412345678",
       "email": "rumana@example.com",
       "image": "/images/agents/agent7.jpg",
+        "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
         "linkedin": "https://linkedin.com",
@@ -105,6 +111,7 @@
       "phone": "+8801312345678",
       "email": "jahid@example.com",
       "image": "/images/agents/agent8.jpg",
+        "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
         "linkedin": "https://linkedin.com",

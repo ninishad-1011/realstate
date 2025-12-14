@@ -50,7 +50,7 @@ export default function Card({ limit = 3, pagination = false }) {
             className="group rounded-xl overflow-hidden relative transition-all duration-500 hover:-translate-y-3 hover:shadow-2xl"
           >
             <img
-              src={item.image}
+              src={item.images[0]}
               alt={item.title}
               className="h-full w-full object-cover"
             />

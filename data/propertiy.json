@@ -8,10 +8,13 @@
       "bedroom": 4,
       "bathroom": 3,
       "area": "3200 sqft",
-      "image": "/Image/properties/house-3.jpg",
+      "images": [
+        "/Image/properties/house-3.jpg",
+        "/Image/properties/pexels-heyho-6316066.jpg"
+      ],
       "status": "For Sale",
       "address": "",
-            "amenities": ["Parking", "Garden", "Security", "Balcony"],
+      "amenities": ["Parking", "Garden", "Security", "Balcony","Balcony","Sun Room","Internet","Cable TV"],
       "description": "This luxury villa offers premium living with spacious interiors, elegant design, and high-quality finishes. Ideal for families seeking comfort, privacy, and a high-end lifestyle."
     },
     {
@@ -22,10 +25,13 @@
       "bedroom": 3,
       "bathroom": 2,
       "area": "1800 sqft",
-      "image": "/Image/properties/pexels-heyho-6316066.jpg",
+      "images": [
+        "/Image/properties/pexels-heyho-6316066.jpg",
+        "/Image/properties/house-3.jpg"
+      ],
       "status": "For Rent",
       "address": "",
-            "amenities": ["Lift", "Security", "Generator", "Parking"],
+      "amenities": ["Lift", "Security", "Generator", "Parking","Balcony","Sun Room","Internet","Cable TV"],
       "description": "This modern apartment is designed for comfortable city living with bright rooms, a functional kitchen, and easy access to daily necessities."
     },
     {
@@ -36,10 +42,13 @@
       "bedroom": 3,
       "bathroom": 2,
       "area": "1500 sqft",
-      "image": "/Image/properties/house-2.jpg",
+      "images": [
+        "/Image/properties/house-2.jpg",
+        "/Image/properties/pexels-heyho-6492386.jpg"
+      ],
       "status": "For Sale",
       "address": "",
-            "amenities": ["Parking", "Water Supply", "Security"],
+      "amenities": ["Parking", "Water Supply", "Security","Balcony","Sun Room","Internet","Cable TV"],
       "description": "A cozy family house offering a peaceful environment with good ventilation and practical living spaces."
     },
     {
@@ -50,10 +59,13 @@
       "bedroom": 6,
       "bathroom": 4,
       "area": "5000 sqft",
-      "image": "/Image/properties/pexels-heyho-6492386.jpg",
+      "images": [
+        "/Image/properties/pexels-heyho-6492386.jpg",
+        "/Image/properties/house-2.jpg"
+      ],
       "status": "For Sale",
       "address": "",
-            "amenities": ["Lift", "Security", "Parking", "Sea Nearby"],
+      "amenities": ["Lift", "Security", "Parking", "Sea Nearby","Balcony","Sun Room","Internet","Cable TV"],
       "description": "This spacious modern flat offers luxury living with wide rooms, excellent airflow, and a premium lifestyle experience."
     },
     {
@@ -64,10 +76,13 @@
       "bedroom": 3,
       "bathroom": 3,
       "area": "2000 sqft",
-      "image": "/Image/properties/pexels-heyho-7018850.jpg",
+      "images": [
+        "/Image/properties/pexels-heyho-7018850.jpg",
+        "/Image/properties/pexels-heyho-7195899.jpg"
+      ],
       "status": "For Rent",
       "address": "",
-            "amenities": ["Lift", "Security", "Parking", "City View"],
+      "amenities": ["Lift", "Security", "Parking", "City View","Balcony","Sun Room","Internet","Cable TV"],
       "description": "A modern city view apartment offering comfort, natural light, and excellent connectivity to key areas."
     },
     {
@@ -78,10 +93,13 @@
       "bedroom": 0,
       "bathroom": 2,
       "area": "3500 sqft",
-      "image": "/Image/properties/pexels-heyho-7195899.jpg",
+      "images": [
+        "/Image/properties/pexels-heyho-7195899.jpg",
+        "/Image/properties/pexels-heyho-7018850.jpg"
+      ],
       "status": "For Sale",
       "address": "",
-            "amenities": ["Parking", "Lift", "Security", "Power Backup"],
+      "amenities": ["Parking", "Lift", "Security", "Power Backup","Balcony","Sun Room","Internet","Cable TV"],
       "description": "This commercial space is ideal for offices or showrooms, located in a prime business area with modern facilities."
     },
     {
@@ -92,10 +110,13 @@
       "bedroom": 5,
       "bathroom": 4,
       "area": "4200 sqft",
-      "image": "/Image/properties/house.jpg",
+      "images": [
+        "/Image/properties/house.jpg",
+        "/Image/properties/pexels-heyho-7018850.jpg"
+      ],
       "status": "For Rent",
       "address": "",
-            "amenities": ["Balcony", "Parking", "Security", "Garden"],
+      "amenities": ["Balcony", "Parking", "Security", "Garden" ,"Balcony","Sun Room","Internet","Cable TV"],
       "description": "This duplex house offers multi-level living with spacious rooms, privacy, and modern design."
     },
     {
@@ -106,10 +127,13 @@
       "bedroom": 2,
       "bathroom": 1,
       "area": "1000 sqft",
-      "image": "/Image/properties/pexels-heyho-7533763.jpg",
+      "images": [
+        "/Image/properties/pexels-heyho-7533763.jpg",
+        "/Image/properties/pexels-heyho-7533763.jpg"
+      ],
       "status": "For Sale",
       "address": "",
-            "amenities": ["Water Supply", "Parking"],
+      "amenities": ["Water Supply", "Parking","Balcony","Sun Room","Internet","Cable TV"],
       "description": "A budget-friendly small family home with essential facilities and a calm residential environment."
     },
     {
@@ -120,10 +144,13 @@
       "bedroom": 3,
       "bathroom": 3,
       "area": "2000 sqft",
-      "image": "/Image/properties/pexels-heyho-7018850.jpg",
+      "images": [
+        "/Image/properties/pexels-heyho-7018850.jpg",
+        "/Image/properties/pexels-heyho-7533763.jpg"
+      ],
       "status": "For Rent",
       "address": "",
-            "amenities": ["Lift", "Security", "Parking"],
+      "amenities": ["Lift", "Security", "Parking","Balcony","Sun Room","Internet","Cable TV"],
       "description": "This apartment offers comfortable urban living with modern facilities and excellent surroundings."
     },
     {
@@ -134,10 +161,13 @@
       "bedroom": 0,
       "bathroom": 2,
       "area": "3500 sqft",
-      "image": "/Image/properties/pexels-heyho-7195899.jpg",
+      "images": [
+        "/Image/properties/pexels-heyho-7195899.jpg",
+        "/Image/properties/pexels-heyho-7533763.jpg"
+      ],
       "status": "For Sale",
       "address": "",
-            "amenities": ["Lift", "Security", "Parking", "Generator"],
+      "amenities": ["Lift", "Security", "Parking", "Generator" ,"Balcony","Sun Room","Internet","Cable TV"],
       "description": "This well-designed and comfortable flat is ideal for modern living with excellent security, lift facilities, and nearby essential services."
     }
   ]
