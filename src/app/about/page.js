@@ -36,7 +36,7 @@ function Page() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-20 mb-16">
         <div className="w-full">
           <Image
-            src={"/Image/WhatsApp Image 2025-11-13 at 19.05.52_1f28799b.jpg"}
+            src={"/Image/agent/580109131_809851498558825_7627810979567079511_n.jpg"}
             width={1000}
             height={1300}
             alt="me"
