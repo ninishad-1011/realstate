@@ -79,22 +79,30 @@ function Page() {
             Latest Properties
           </h1>
           <Link
-            href={""}
-            className="text-base sm:text-lg bg-green-600 text-gray-600 hover:text-green-500 hover:cursor-pointer px-3 py-1 rounded"
+            href={"/pages/Properties"}
+            className="text-base text-white md:text-white sm:text-lg bg-green-800 md:hover:bg-green-600 hover:cursor-pointer px-3 py-1 rounded"
           >
             View All
           </Link>
         </div>
-        <div className="mt-8">
-          <Card limit={3} pagination={false} />
+        <div className="mt-8 ">
+          <Card limit={3} pagination={false}  />
         </div>
       </div>
 
       {/* Best Agents */}
       <div className="container mx-auto mt-16 px-4">
-        <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-black mb-6">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4 md:gap-0">
+          <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-black">
           Best Agents
-        </h1>
+          </h1>
+          <Link
+            href={"/pages/Besagent"}
+            className="text-base text-white md:text-white sm:text-lg bg-green-800 md:hover:bg-green-600 hover:cursor-pointer px-3 py-1 rounded"
+          >
+            View All
+          </Link>
+        </div>
         <div>
           <AgentsCard limit={4} />
         </div>

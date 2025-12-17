@@ -3,7 +3,6 @@ import { Poppins } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/footer";
-import { ClerkProvider } from '@clerk/nextjs';
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -15,14 +14,12 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const popines= Poppins({
-  subsets:['latin'],
+const popines = Poppins({
+  subsets: ['latin'],
   display: 'swap',
-  variable:'--font-popines',
-  weight:['100','200','300','400','500','600','700','800','900']
-
-
-})
+  variable: '--font-popines',
+  weight: ['100','200','300','400','500','600','700','800','900']
+});
 
 export const metadata = {
   title: "Real Estate Agency",
@@ -32,15 +29,17 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={popines.className}
-      >
-        <ClerkProvider>
-        <Navbar/>
+      <head>
+        {/* Favicon */}
+        <link rel="icon" href="/favicon-16x16.png" />
+        {/* Optional: Apple Touch Icon */}
+        <link rel="apple-touch-icon" href="/public/apple-touch-icon.png" />
+      </head>
+
+      <body className={popines.className}>
+        <Navbar />
         {children}
-        <Footer/>
-        </ClerkProvider>
-        
+        <Footer />
       </body>
     </html>
   );

@@ -1,7 +1,10 @@
 import AgentsCard from "@/agent";
 import React from "react";
 
+
+
 export default function page() {
+
   return (
     <div className="bg-white">
       <div className="container mx-auto px-4 sm:px-6 md:px-10 mt-6 sm:mt-10 mb-10">
@@ -13,6 +16,9 @@ export default function page() {
           <p className="text-sm sm:text-base md:text-lg text-gray-500 py-1 sm:py-2">
             Agents List
           </p>
+        </div>
+        <div>
+          
         </div>
 
         {/* Content Section */}

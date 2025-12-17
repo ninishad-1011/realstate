@@ -45,7 +45,7 @@ export default function Card({ limit = 3, pagination = false }) {
       </div>
 
       {/* Property Grid */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 md:h-[1000px] gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 md:min-h-screen gap-6">
         {currentData.map((item) => (
           <div
             key={item.id}
@@ -101,17 +101,17 @@ export default function Card({ limit = 3, pagination = false }) {
           <button
             disabled={page === 1}
             onClick={() => setPage(page - 1)}
-            className="px-4 py-2 bg-gray-200 rounded disabled:opacity-50"
+            className="px-4 py-2 bg-green-500 text-white font-semibold rounded disabled:opacity-50"
           >
             Previous
           </button>
-          <span className="font-bold">
+          <span className="font-bold text-gray-700">
             Page {page} of {totalPages}
           </span>
           <button
             disabled={page === totalPages}
             onClick={() => setPage(page + 1)}
-            className="px-4 py-2 bg-gray-200 rounded disabled:opacity-50"
+            className="px-4 py-2  bg-green-500 text-white font-semibold rounded disabled:opacity-50"
           >
             Next
           </button>

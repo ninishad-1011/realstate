@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { SignedOut, SignedIn, UserButton, SignUpButton } from "@clerk/nextjs";
+
 
 export default function Navbar() {
   const pathname = usePathname();
@@ -22,7 +22,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 flex items-center justify-between h-20">
         {/* Logo */}
         <h1 className="text-3xl sm:text-4xl font-bold text-black">
-          State <span className="text-green-600">Agency</span>
+          Nafi <span className="text-green-600">Agency</span>
         </h1>
 
         {/* Desktop Menu */}
@@ -34,7 +34,7 @@ export default function Navbar() {
                 key={index}
                 href={item.path}
                 className={`hover:text-green-600 transition-colors duration-300 ${
-                  isActive ? "text-green-600 border-b-2 border-green-600" : ""
+                  isActive ? "text-green-600 border-b-4 border-green-600" : ""
                 }`}
               >
                 {item.name}
@@ -42,18 +42,7 @@ export default function Navbar() {
             );
           })}
 
-          <div className="flex items-center gap-3">
-            <SignedOut>
-              <SignUpButton>
-                <button className="bg-[#6c47ff] text-white rounded-full font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 cursor-pointer">
-                  Sign Up
-                </button>
-              </SignUpButton>
-            </SignedOut>
-            <SignedIn>
-              <UserButton />
-            </SignedIn>
-          </div>
+      
         </div>
 
         {/* Mobile Hamburger */}
@@ -128,13 +117,7 @@ export default function Navbar() {
             Contact
           </Link>
 
-          <SignedOut>
-            <SignUpButton>
-              <button className="bg-[#6c47ff] text-white rounded-full font-medium text-sm h-10 px-4 cursor-pointer">
-                Sign Up
-              </button>
-            </SignUpButton>
-          </SignedOut>
+    
         </div>
       )}
     </nav>

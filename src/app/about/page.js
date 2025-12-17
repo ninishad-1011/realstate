@@ -1,8 +1,10 @@
 import AgentsCard from "@/agent";
+import Link from "next/link";
 import Image from "next/image";
 import React from "react";
 
 function Page() {
+     
   return (
     <div className="container mx-auto text-black mt-10 px-4">
       {/* Heading */}
@@ -23,8 +25,8 @@ function Page() {
 
         {/* Card overlay */}
         <div className="absolute bottom-4 sm:bottom-8 md:bottom-10 left-4 sm:left-8 md:left-10 bg-green-500 bg-opacity-90 p-4 sm:p-6 md:p-8 shadow-lg max-w-xs sm:max-w-sm">
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-black mb-2">
-            EstateAgency Since 2017
+          <h2 className="text-1xl sm:text-3xl md:text-4xl font-bold text-black mb-2">
+            NafiAgency Since 2025
           </h2>
           <p className="text-gray-700 text-sm sm:text-base">Art & Creative</p>
         </div>
@@ -65,9 +67,17 @@ function Page() {
 
       {/* Team Section */}
       <div className="mb-16">
-        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-8">
-          Meet Our Teams
-        </h1>
+        <div className="flex flex-col md:flex-row justify-between items-center gap-4 md:gap-0">
+          <h1 className="text-3xl sm:text-2xl md:text-4xl font-bold text-black">
+        Meet Our Teams
+          </h1>
+          <Link
+            href={"/pages/Besagent"}
+            className="text-base text-white md:text-white sm:text-lg bg-green-800 md:hover:bg-green-600 hover:cursor-pointer px-3 py-1 rounded"
+          >
+            View All
+          </Link>
+        </div>
         <AgentsCard limit={4} />
       </div>
     </div>

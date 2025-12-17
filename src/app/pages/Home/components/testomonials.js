@@ -49,7 +49,7 @@ export default function Testimonials() {
             />
 
             {/* Text */}
-            <div className="p-4 sm:p-6 mt-4 shadow-lg bg-gray-100 rounded-lg w-full sm:w-3/4 md:w-2/3 text-center">
+            <div className="p-4 sm:p-6 mt-4 shadow-lg bg-gray-100 rounded-lg w-full sm:w-3/4 md:w-full text-center">
               <p className="text-base sm:text-lg md:text-2xl font-semibold text-gray-800">
                 {slide.subtitle}
               </p>

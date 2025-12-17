@@ -2,12 +2,12 @@
   "agents": [
     {
       "id": 1,
-      "name": "Nafiul Islam",
+      "name": "Rana Molla",
       "designation": "Senior Agent",
       "phone": "+8801571117435",
       "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
-      "email": "nafiul1011@gmail.com",
-      "image": "/Image/WhatsApp Image 2025-11-13 at 19.05.52_1f28799b.jpg",
+      "email": "rana@gmail.com",
+      "image": "/Image/agent/rana.jpg",
       "socialLinks": {
         "facebook": "https://facebook.com",
         "linkedin": "https://linkedin.com",
@@ -17,11 +17,11 @@
     },
     {
       "id": 2,
-      "name": "Sadia Rahman",
+      "name": "Joy Siddique",
       "designation": "Property Consultant",
-      "phone": "+8801712345678",
-      "email": "sadia@example.com",
-      "image": "/images/agents/agent2.jpg",
+      "phone": "+8801635763618",
+      "email": "joy@gmail.com",
+      "image": "/Image/agent/joy.jpg",
         "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
@@ -32,11 +32,11 @@
     },
     {
       "id": 3,
-      "name": "Arif Hossain",
+      "name": "Rs Sojib",
       "designation": "Real Estate Agent",
-      "phone": "+8801912345678",
-      "email": "arif@example.com",
-      "image": "/images/agents/agent3.jpg",
+      "phone": "************",
+      "email": "rahim@example.com",
+      "image": "/Image/agent/rahim.jpg",
       "socialLinks": {
         "facebook": "https://facebook.com",
         "linkedin": "https://linkedin.com",
@@ -46,11 +46,11 @@
     },
     {
       "id": 4,
-      "name": "Tania Akter",
+      "name": " Ieamin Sifat",
       "designation": "Junior Agent",
-      "phone": "+8801812345678",
-      "email": "tania@example.com",
-      "image": "/images/agents/agent4.jpg",
+      "phone": "**********",
+      "email": "sifat@example.com",
+      "image": "/Image/agent/sifat.jpg",
         "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
@@ -61,11 +61,11 @@
     },
     {
       "id": 5,
-      "name": "Rafiq Khan",
+      "name": "Sajib Miah",
       "designation": "Senior Agent",
-      "phone": "+8801612345678",
-      "email": "rafiq@example.com",
-      "image": "/images/agents/agent5.jpg",
+      "phone": "***********",
+      "email": "sajibq@example.com",
+      "image": "/Image/agent/sajib.jpg",
         "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
@@ -76,11 +76,11 @@
     },
     {
       "id": 6,
-      "name": "Meherun Nahar",
+      "name": "Sumon Miah",
       "designation": "Property Consultant",
-      "phone": "+8801512345678",
-      "email": "meherun@example.com",
-      "image": "/images/agents/agent6.jpg",
+      "phone": "********",
+      "email": "sumon@example.com",
+      "image": "/Image/agent/sumon.jpg",
         "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
@@ -91,11 +91,11 @@
     },
     {
       "id": 7,
-      "name": "Rumana Akter",
+      "name": "Rahat Talukder",
       "designation": "Real Estate Agent",
-      "phone": "+8801412345678",
-      "email": "rumana@example.com",
-      "image": "/images/agents/agent7.jpg",
+      "phone": "*************",
+      "email": "rahat@example.com",
+      "image": "/Image/agent/rahat.jpg",
         "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",
@@ -106,11 +106,11 @@
     },
     {
       "id": 8,
-      "name": "Jahid Hasan",
+      "name": "Jobayed Hossen",
       "designation": "Property Consultant",
-      "phone": "+8801312345678",
-      "email": "jahid@example.com",
-      "image": "/images/agents/agent8.jpg",
+      "phone": "*********",
+      "email": "jobayed@example.com",
+      "image": "/Image/agent/jobayed.jpg",
         "description":"Sed porttitor lectus nibh. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus suscipit tortor eget felis porttitor volutpat",
       "socialLinks": {
         "facebook": "https://facebook.com",

@@ -29,7 +29,7 @@ function Footer() {
         {/* Section 1 */}
         <div>
           <h1 className="font-bold mb-2 text-3xl sm:text-4xl text-black">
-            EstateAgency
+            NafiAgency
           </h1>
           <p className="mb-2 mt-3 text-base sm:text-lg">
             Enim minim veniam quis nostrud exercitation ullamco laboris nisi ut
@@ -71,12 +71,12 @@ function Footer() {
       </div>
 
       {/* Footer Menu */}
-      <div className="flex flex-wrap hover:cursor-pointer hover:text-green-500 justify-center items-center gap-4 mt-8 text-base sm:text-lg font-medium text-black px-4">
+      <div className="flex flex-wrap hover:cursor-pointer justify-center items-center gap-4 mt-8 text-base sm:text-lg font-medium text-black px-4">
         {menu.map((item, index) => (
           <Link
             key={index}
             href={item.href}
-            className="hover:text-green-600 transition-colors duration-300"
+            className="md:hover:text-green-600 transition-colors duration-300"
           >
             {item.name}
           </Link>
@@ -100,7 +100,7 @@ function Footer() {
 
       {/* Copyright */}
       <p className="text-center mt-6 text-gray-500 text-sm sm:text-base">
-        &copy; {new Date().getFullYear()} EstateAgency. All rights reserved.
+        &copy; {new Date().getFullYear()} NafiAgency. All rights reserved.
       </p>
       <p className="text-center text-gray-500 text-sm sm:text-base">
         Developed By Nafiul Islam

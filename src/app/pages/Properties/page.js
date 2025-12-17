@@ -1,7 +1,9 @@
 import React from "react";
 import Card from "../../card";
+import Link from "next/link";
 
 function page() {
+  
   return (
     <div className="bg-white">
       <div className="container mx-auto px-4 sm:px-6 md:px-10 mt-6 sm:mt-10 mb-10">
